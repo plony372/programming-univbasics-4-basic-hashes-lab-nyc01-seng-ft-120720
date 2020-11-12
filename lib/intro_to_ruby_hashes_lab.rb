@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-
+  valid_hash = {:valid => "hashman"}
 end
 
 def pioneer
